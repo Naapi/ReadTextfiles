@@ -1,0 +1,14 @@
+{
+"library":[
+    {
+        "book": "Hobit",
+        "writer": "J.R.R.Tolkien",
+        "isbn": "9788072037223"
+    },
+    {
+        "book": "The Richard Burton Diaries",
+        "writer": "Richard Burton",
+        "isbn": "9780300180107"
+    }
+]
+}
